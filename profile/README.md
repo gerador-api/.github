@@ -1,6 +1,6 @@
 # 📘 Gerador de API
 
-Este repositório contém a implementação do **API Forge**, uma ferramenta interna para geração automatizada de APIs em **Laravel** a partir de um **modelador visual** de banco de dados.
+Este repositório contém a implementação de um sistema para gerar API, uma ferramenta para geração automatizada de APIs em **Laravel** a partir de um **modelador visual** de banco de dados.
 
 O objetivo é acelerar o desenvolvimento de APIs, eliminando tarefas repetitivas e permitindo que modelos visuais se transformem em projetos Laravel completos.
 
