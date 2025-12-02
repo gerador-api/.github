@@ -1,4 +1,4 @@
-# 📘 API Forge — Documentação Interna
+# 📘 Gerador de API
 
 Este repositório contém a implementação do **API Forge**, uma ferramenta interna para geração automatizada de APIs em **Laravel** a partir de um **modelador visual** de banco de dados.
 
